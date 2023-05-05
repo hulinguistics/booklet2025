@@ -4,13 +4,10 @@ on:
   push:
 
 jobs:
-  deploy-prod:
+  build:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
-    permissions:
-      contents: read
-      deployments: write
 
     steps:
       - uses: actions/checkout@v2
