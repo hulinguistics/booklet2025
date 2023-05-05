@@ -1,0 +1,29 @@
+{
+  "name": "booklet",
+  "description": "booklet",
+  "version": "0.0.0",
+  "author": "北大言語学サークル Huling <info@huling.org>",
+  "workspaces": [
+    "theme"
+  ],
+  "scripts": {
+    "build": "run-p build:theme build:manuscript",
+    "build:manuscript": "vivliostyle build --press-ready",
+    "build:theme": "cd theme && yarn build",
+    "preview": "vivliostyle preview",
+    "dev": "run-p dev:theme preview",
+    "dev:theme": "cd theme && yarn watch:scss"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "yarn": "4.0.0-rc.43"
+  }
+}

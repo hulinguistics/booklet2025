@@ -1,0 +1,33 @@
+name: Build
+
+on:
+  push:
+
+jobs:
+  deploy-prod:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: read
+      deployments: write
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Use Volta
+        uses: volta-cli/action@v1
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build
+        run: yarn build
+
+      - name: Archive
+        uses: actions/upload-artifact@v2
+        with:
+          path: ./dist/output.pdf
