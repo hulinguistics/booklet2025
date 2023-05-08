@@ -23,4 +23,11 @@ section {
     padding-bottom: .6em;
     border-bottom: 2px solid #000;
   }
+  p:has(img) {
+    text-align: center;
+    img {
+      margin: unset auto;
+      width: 50%;
+    }
+  }
 }
