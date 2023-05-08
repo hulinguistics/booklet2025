@@ -30,16 +30,18 @@ module.exports = {
     {
       path: './dist/output.pdf',
       format: 'pdf',
-      renderMode: 'docker',
       preflight: 'press-ready',
+      preflightOption: ['gray-scale'],
     },
     {
       path: './dist/webpub',
       format: 'webpub',
     },
   ],
-  workspaceDir: '.vivliostyle', // directory which is saved intermediate files.
-  toc: true, // whether generate and include ToC HTML or not, default to 'false'.
+  workspaceDir: '.vivliostyle',
+  toc: true,
+  tocTitle: '目次',
+  http: true,
   // cover: './cover.png', // cover image. default to undefined.
   // vfm: { // options of VFM processor
   //   hardLineBreaks: true, // converts line breaks of VFM to <br> tags. default to 'false'.
