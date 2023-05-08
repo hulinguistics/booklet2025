@@ -27,7 +27,12 @@ module.exports = {
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'
-    './dist/output.pdf', // the output format will be inferred from the name.
+    {
+      path: './dist/output.pdf',
+      format: 'pdf',
+      renderMode: 'docker',
+      preflight: 'press-ready',
+    },
     {
       path: './dist/webpub',
       format: 'webpub',

@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "build": "run-p build:theme build:manuscript",
-    "build:manuscript": "vivliostyle build --press-ready",
+    "build:manuscript": "vivliostyle build",
     "build:theme": "cd theme && yarn build",
     "preview": "vivliostyle preview",
     "dev": "run-p dev:theme preview",
