@@ -12,7 +12,7 @@ module.exports = {
     //
     '3gai/chu.md', // 古教会スラブ語
     '3gai/ain.md', // アイヌ語
-    // '3gai/ara.md', // アラビア語
+    '3gai/ara.md', // アラビア語
     '3gai/fin.md', // フィンランド語
     '3gai/pol.md', // ポーランド語
     // '3gai/tur.md', // トルコ語
