@@ -45,6 +45,6 @@
 
 ## 参考文献  
 
-- 法務省出入国在留管理庁. (2022, December 9). 在留外国人統計. E-Stat 政府統計の総合窓口. https://www.e-stat.go.jp/stat-search/files?stat_infid=000032258906(閲覧日:2023.5.7)
+- 法務省出入国在留管理庁. (2022, December 9). 在留外国人統計. E-Stat 政府統計の総合窓口. https://www.e-stat.go.jp/stat-search/files?stat_infid=000032258906 (閲覧日:2023.5.7)
 - 横浜市. 横浜市HP. https://www.city.yokohama.lg.jp/ (閲覧日:2023.5.7)
 - 松岡弘. (2000). 初級を教える人のための日本語文法ハンドブック (1st ed.). スリーエーネットワーク.
