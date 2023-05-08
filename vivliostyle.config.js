@@ -31,7 +31,7 @@ module.exports = {
       path: './dist/output.pdf',
       format: 'pdf',
       preflight: 'press-ready',
-      preflightOption: ['gray-scale'],
+      // preflightOption: ['gray-scale'], // 白黒
     },
     {
       path: './dist/webpub',
