@@ -9,7 +9,7 @@ module.exports = {
 
     //
     // 第3外国語概説
-    // 
+    //
     '3gai/chu.md', // 古教会スラブ語
     '3gai/ain.md', // アイヌ語
     // '3gai/ara.md', // アラビア語

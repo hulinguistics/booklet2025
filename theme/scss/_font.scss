@@ -1,9 +1,9 @@
 // Noto Sans, Noto Sans JP
-@import 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;500;600;700;800;900&family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif+JP:wght@400;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700');
 
 // 古教会スラブ語キリル文字
 [cyrs] {
-  font-family: 'Monomakh Unicode', $font-family;
+  font-family: 'Monomakh Unicode', $font-family !important;
 }
 @font-face {
   font-family: 'Monomakh Unicode';
@@ -15,7 +15,7 @@
 
 // 古教会スラブ語グラゴル文字
 [glag] {
-  font-family: 'Shafarik', $font-family;
+  font-family: 'Shafarik', $font-family !important;
 }
 @font-face {
   font-family: 'Shafarik';
