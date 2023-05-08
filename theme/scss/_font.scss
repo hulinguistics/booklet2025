@@ -3,7 +3,7 @@
 
 // 古教会スラブ語キリル文字
 [cyrs] {
-  font-family: 'Monomakh Unicode', var(--vp-font-family-base);
+  font-family: 'Monomakh Unicode', $font-family;
 }
 @font-face {
   font-family: 'Monomakh Unicode';
@@ -15,7 +15,7 @@
 
 // 古教会スラブ語グラゴル文字
 [glag] {
-  font-family: 'Shafarik', var(--vp-font-family-base);
+  font-family: 'Shafarik', $font-family;
 }
 @font-face {
   font-family: 'Shafarik';
