@@ -23,7 +23,7 @@ module.exports = {
     'contri/consti.md', // 日本国憲法の言語学的解析
     'contri/edu_jpn.md', // 知っていますか?「日本語教育」
     // 'contri/chara.md', // 文字
-    // 'contri/fra_rus.md', // ロシア国内でのフランス語
+    'contri/fra_rus.md', // ロシア国内でのフランス語
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'
