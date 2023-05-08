@@ -31,3 +31,19 @@ section {
     }
   }
 }
+
+.section-title {
+  height: 100%;
+  width: 100%;
+  section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    h2 {
+      text-align: center;
+      font-size: 4em;
+    }
+  }
+}

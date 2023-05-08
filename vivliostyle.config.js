@@ -2,14 +2,20 @@ module.exports = {
   title: '言サ冊子2023(仮称)',
   author: '北大言語学サークル Huling <info@huling.org>',
   language: 'ja',
-  // size: 'A4', // paper size.
+  size: 'A4',
   theme: './theme',
   entry: [
     'preface.md', // はじめに
 
+    {
+      path: 'toc.md',
+      rel: 'contents',
+    },
+
     //
     // 第3外国語概説
     //
+    '3gai/index.md', // タイトル
     '3gai/chu.md', // 古教会スラブ語
     '3gai/ain.md', // アイヌ語
     '3gai/ara.md', // アラビア語
@@ -20,6 +26,7 @@ module.exports = {
     //
     // 寄稿
     //
+    'contri/index.md', // タイトル
     'contri/consti.md', // 日本国憲法の言語学的解析
     'contri/edu_jpn.md', // 知っていますか?「日本語教育」
     // 'contri/chara.md', // 文字
