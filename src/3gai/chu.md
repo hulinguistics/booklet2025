@@ -72,19 +72,19 @@
 |:--:|:--:|:--:|:--:|:--|
 |<span glag>ⰰ</span>|<span cyrs>а</span>|a|/a/|「ア」|
 |<span glag>ⰱ</span>|<span cyrs>б</span>|b|/b/|「バ」の子音|
-|<span glag>ⰲ</span>|<span cyrs>в</span>|v|/v/|英 ***v**ast*|
+|<span glag>ⰲ</span>|<span cyrs>в</span>|v|/v/|英 * **v**ast*|
 |<span glag>ⰳ</span>|<span cyrs>г</span>|g|/g/|「ガ」の子音|
 |<span glag>ⰴ</span>|<span cyrs>д</span>|d|/d/|「ダ」の子音|
 |<span glag>ⰵ</span>|<span cyrs>е</span>|e|/ɛ/|英 *b**e**d*|
 |<span glag>ⰶ</span>|<span cyrs>ж</span>|ž|/ʒ/|英 *mea**s**ure*|
-|<span glag>ⰷ</span>|<span cyrs>ѕ</span>|ʒ[^6]|/d͡z/|英 *car**ds***|
-|<span glag>ⰸ</span>|<span cyrs>ꙁ з</span>|z|/z/|英 *car**s***|
+|<span glag>ⰷ</span>|<span cyrs>ѕ</span>|ʒ[^6]|/d͡z/|英 *car**ds** *|
+|<span glag>ⰸ</span>|<span cyrs>ꙁ з</span>|z|/z/|英 *car**s** *|
 |<span glag>ⰹ</span>|<span cyrs>і</span>|i|/i/|「イ」. 場合によっては /ji/ のような発音も想定される. <br> 例: краи = *kraji|
 |<span glag>ⰺ</span>|<span cyrs>ꙇ</span>|i|/i/|^|
 |<span glag>ⰻ</span>|<span cyrs>и</span>|i|/i/|^|
 |<span glag>ⰼ</span>|<span cyrs>(ћ)</span>|ǵ|/gʲ/?|正確な音価は不明 <br> 古代ギリシア語における前舌母音の前の *γ* (ガンマ) と対応している|
 |<span glag>ⰽ</span>|<span cyrs>к</span>|k|/k/|「カ」の子音|
-|<span glag>ⰾ</span>|<span cyrs>л</span>|l|/l/|英 ***l**ast*|
+|<span glag>ⰾ</span>|<span cyrs>л</span>|l|/l/|英 * **l**ast*|
 |<span glag>ⰿ</span>|<span cyrs>м</span>|m|/m/|「マ」の子音|
 |<span glag>ⱀ</span>|<span cyrs>н</span>|n|/n/|「ナ」の子音|
 |<span glag>ⱁ</span>|<span cyrs>о</span>|o|/ɔ/|英 *l**o**rd*|
@@ -92,15 +92,15 @@
 |<span glag>ⱃ</span>|<span cyrs>р</span>|r|/r/|巻き舌. 河内弁の '*シバくぞ ワ**レ**ェ*'|
 |<span glag>ⱄ</span>|<span cyrs>с</span>|s|/s/|「サ」の子音|
 |<span glag>ⱅ</span>|<span cyrs>т</span>|t|/t/|「タ」の子音|
-|<span glag>ⱆ</span>|<span cyrs>ѹ</span>|u|/u/|英 *wh**o***|
-|<span glag>ⱇ</span>|<span cyrs>ф</span>|f|/f/, /p/|英 ***ph**one* <br> 発音の揺れがあった|
-|<span glag>ⱚ</span>|<span cyrs>ѳ</span>|th|/θ/, /t/| 英 ***th**eme* <br> 発音の揺れがあった|
-|<span glag>ⱈ</span>|<span cyrs>х</span>|x|/x/|独 *Bu**ch*** <br> 日 *マッ**ハ***|
+|<span glag>ⱆ</span>|<span cyrs>ѹ</span>|u|/u/|英 *wh**o** *|
+|<span glag>ⱇ</span>|<span cyrs>ф</span>|f|/f/, /p/|英 * **ph**one* <br> 発音の揺れがあった|
+|<span glag>ⱚ</span>|<span cyrs>ѳ</span>|th|/θ/, /t/| 英 * **th**eme* <br> 発音の揺れがあった|
+|<span glag>ⱈ</span>|<span cyrs>х</span>|x|/x/|独 *Bu**ch** * <br> 日 *マッ**ハ** *|
 |<span glag>ⱉ</span>|<span cyrs>ѡ</span>|o|/ɔ/|英 *l**o**rd*|
-|<span glag>ⱋ</span>|<span cyrs>щ</span>|št|/ʃt/|英 *ha**shed***|
+|<span glag>ⱋ</span>|<span cyrs>щ</span>|št|/ʃt/|英 *ha**shed** *|
 |<span glag>ⱌ</span>|<span cyrs>ц</span>|c|/t͡s/|「ツ」の子音|
-|<span glag>ⱍ</span>|<span cyrs>ч</span>|č|/t͡ʃ/|英 ***ch**ampion*|
-|<span glag>ⱎ</span>|<span cyrs>ш</span>|š|/ʃ/|英 ***sh**rimp*|
+|<span glag>ⱍ</span>|<span cyrs>ч</span>|č|/t͡ʃ/|英 * **ch**ampion*|
+|<span glag>ⱎ</span>|<span cyrs>ш</span>|š|/ʃ/|英 * **sh**rimp*|
 |<span glag>ⱏ</span>|<span cyrs>ъ</span>|ъ (ŭ)|/ɯ/?|ごく弱い「ウ」<br> 正確な音価は不明|
 |<span glag>ⱏⰹ</span>|<span cyrs>ꙑ</span>|y|/ɨ/|露 *д**ы**м*|
 |<span glag>ⱐ</span>|<span cyrs>ь</span>|ь (ĭ)|/i/?|ごく弱い「イ」 <br> 正確な音価は不明|
@@ -108,12 +108,12 @@
 |<span glag>ⱓ</span>|<span cyrs>ю</span>|ju|/ju/|ユ|
 |<span glag>-</span>|<span cyrs>ꙗ</span>|ja|/ja/|ヤ|
 |<span glag>-</span>|<span cyrs>ѥ</span>|je|/jɛ/|イェ|
-|<span glag>ⱔ (ⱗ)</span>|<span cyrs>ѧ</span>|ę|/ɛ̃/|仏 *pl**ein*** <br> 日 *ご**縁***|
-|<span glag>ⱘ</span>|<span cyrs>ѫ</span>|ǫ|/ɔ̃/|仏 *s**on*** <br> 日 *ご**恩***|
-|<span glag>ⱗ</span>|<span cyrs>ѩ</span>|ję|/jɛ̃/|仏 *ch**ien*** <br> 日 *ぴ**えん***|
-|<span glag>ⱙ</span>|<span cyrs>ѭ</span>|jǫ|/jɔ̃/|仏 *cra**yon*** <br> 日 *ガチ**ョーン***|
-|<span glag>-</span>|<span cyrs>ѯ</span>|ks|/ks/|英 *bo**x***|
-|<span glag>-</span>|<span cyrs>ѱ</span>|ps|/ps/|英 *dro**ps***|
+|<span glag>ⱔ (ⱗ)</span>|<span cyrs>ѧ</span>|ę|/ɛ̃/|仏 *pl**ein** * <br> 日 *ご**縁** *|
+|<span glag>ⱘ</span>|<span cyrs>ѫ</span>|ǫ|/ɔ̃/|仏 *s**on** * <br> 日 *ご**恩** *|
+|<span glag>ⱗ</span>|<span cyrs>ѩ</span>|ję|/jɛ̃/|仏 *ch**ien** * <br> 日 *ぴ**えん** *|
+|<span glag>ⱙ</span>|<span cyrs>ѭ</span>|jǫ|/jɔ̃/|仏 *cra**yon** * <br> 日 *ガチ**ョーン** *|
+|<span glag>-</span>|<span cyrs>ѯ</span>|ks|/ks/|英 *bo**x** *|
+|<span glag>-</span>|<span cyrs>ѱ</span>|ps|/ps/|英 *dro**ps** *|
 |<span glag>ⱛ</span>|<span cyrs>ѵ</span>|ü|/ʏ/|独 *f**ü**nf*|
 
 ## 音韻
@@ -190,10 +190,13 @@ Lunt (2001) はこれを “neutral consonants” と呼んでいます．
 
 1. **性**：男性 / 女性 / 中性  
 個々の名詞に性が付与されており，形容詞，代名詞，基数詞の 1 ~ 4，分詞は名詞の性と一致する．
+
 1. **数**：単数 / 双数 / 複数  
 名詞，形容詞，代名詞，動詞は数によって語形が変化する．
+
 1. **人称**：1人称 / 2人称 / 3人称  
 動詞の活用に関わる．
+
 1. **格**：名詞およびそれを修飾する形容詞，代名詞，数詞，分詞の変化に関わる．主な機能・意味は以下の通り．
     - **主格**：文の主語になる．A = B の関係における B (述語) になる．
     - **生格**：(＝属格) 所有を表す．存在の否定や奪格由来の分離の意味などもある．
@@ -205,6 +208,7 @@ Lunt (2001) はこれを “neutral consonants” と呼んでいます．
     - **造格**：(＝具格) 道具や手段，状態，時などを表す．A = B の関係における B (述語) になることもある．
     - **所格**：場所や時を表す．前置詞とともに用いられることが多いが，前置詞を伴わない例も少数存在する．
     - **呼格**：呼びかけに使われる．
+
 1. **時制**：動詞は直説法でのみ以下の時制を区別する．後述のアスペクトとも密接に関わっている．
     - **現在**：時について具体的なことを示さない．同一の動詞形態が文脈によっては現在だけでなく過去も未来も表しうる．
     - **未完了過去**：過去の事態や行為を全体として捉えて「描写」する[^0]．
@@ -216,12 +220,15 @@ Lunt (2001) はこれを “neutral consonants” と呼んでいます．
     l-分詞 (第2能動過去分詞) と be動詞 *byti* の現在からつくられる複合時制．
     - **過去完了**：過去のある時点よりもさらに前の行為の結果が，過去のある時点でも影響を及ぼし続けていることを表す.  
     l-分詞と be動詞 *byti* の未完了過去あるいは不完了体アオリストからつくられる複合時制．
+
 1. **アスペクト**：完了体 / 不完了体  
 個々の動詞にいずれかのアスペクト (スラヴ語学では**体**という訳語を使う) が付与される．
 ただし be動詞 *byti* は完了体の語幹 *bǫd-*，*by-* と不完了体の語幹 *bě-*，*jes-*，*s-* をもっている．
 完了体は動作や過程が終わりに達することを示し，不完了体は動作が完了しているかどうかについて明示しない（関心がない）．
+
 1. **法**：直説法 / 命令法 / 条件法  
 条件法は l-分詞と助動詞 *bimь* (後の時代では be動詞 *byti* の完了体アオリスト) の組み合わせによって示される．
+
 1. **態**  
 分詞に能動 / 受動の区別があるが，いわゆる受動態を形成する体系的な手段はない．
 典型的には受動分詞と be動詞 *byti* の組み合わせによって，
