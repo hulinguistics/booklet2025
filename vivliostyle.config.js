@@ -5,6 +5,7 @@ module.exports = {
   size: 'A4',
   theme: './theme',
   entry: [
+    'index.md', // 表紙
     'preface.md', // はじめに
 
     {
