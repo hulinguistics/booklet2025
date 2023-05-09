@@ -5,13 +5,12 @@ module.exports = {
   size: 'A4',
   theme: './theme',
   entry: [
-    'index.md', // 表紙
-    'preface.md', // はじめに
-
     {
-      path: 'toc.md',
+      path: 'index.md',
       rel: 'contents',
     },
+
+    'preface.md', // はじめに
 
     //
     // 第3外国語概説
