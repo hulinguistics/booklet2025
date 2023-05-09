@@ -16,7 +16,6 @@
     <li>
       <a href="contri/index.html">寄稿</a>
       <ol>
-        <li><a href="contri/index.html">タイトル</a></li>
         <li><a href="contri/consti.html">日本国憲法の言語学的解析</a></li>
         <li><a href="contri/edu_jpn.html">知っていますか?「日本語教育」</a></li>
         <!-- <li><a href="contri/chara.html">文字</a></li> -->
