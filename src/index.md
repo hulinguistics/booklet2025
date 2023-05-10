@@ -18,7 +18,7 @@
       <ol>
         <li><a href="contri/consti.html">日本国憲法の言語学的解析</a></li>
         <li><a href="contri/edu_jpn.html">知っていますか?「日本語教育」</a></li>
-        <!-- <li><a href="contri/chara.html">文字</a></li> -->
+        <li><a href="contri/pol_spolgloski_miekki.html">「きのうてきなんしいん」ってなぁに？</a></li>
         <li><a href="contri/fra_rus.html">ロシア国内でのフランス語</a></li>
       </ol>
     </li>
