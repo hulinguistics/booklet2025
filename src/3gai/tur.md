@@ -128,13 +128,10 @@
 |二人称複数|siz|-siniz|......değilsiniz|......misiniz|
 |三人称複数|onlar|-[dirler],<br>-[ler]|......değil[dirler],<br>......değil[ler]|......mi[dirler],<br>-ler......mi|
 
-- Ben gencım. Sen de genç misin?  　
-- 私は若い。君も若いか？
-- Ben：私　genç：若い　gencım：若い（ımは一人称単数肯定形の連辞。ç→cは子音の有声化）　misin：～か（二人称単数疑問形の連辞）
-- Hayır, ben genç değil, yaşlıyım.
-- いいえ、私は若くなく、歳をとっている。
-- Hayır：いいえ　değil：～でない（一人称単数否定形）　yaşlıyım：歳をとっている（yımは一人称単数肯定形の連辞）
-
+- Ben gencım. Sen de genç misin? 私は若い。君も若いか？
+  Ben：私　genç：若い　gencım：若い（ımは一人称単数肯定形の連辞。ç→cは子音の有声化）　misin：～か（二人称単数疑問形の連辞）
+- Hayır, ben genç değil, yaşlıyım. いいえ、私は若くなく、歳をとっている。  
+  Hayır：いいえ　değil：～でない（一人称単数否定形）　yaşlıyım：歳をとっている（yımは一人称単数肯定形の連辞）
 
 ## 性、数、格
 
