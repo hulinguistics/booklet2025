@@ -360,7 +360,7 @@ v-語幹は印欧祖語の形を念頭に置いて ū-語幹とも呼ばれる�
 | |3|pišete|pьsaašete|pьsaste|pьsala jeste|pьsala běste/běašete|-|
 
 <p style="text-align: right;">
-(Mija)
+(文学部3年 Mija)
 </p>
 
 ## 参考文献

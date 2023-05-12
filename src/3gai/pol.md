@@ -247,7 +247,7 @@ title: ポーランド語 / polski
   - dobry wieczór "良い-晩"「こんばんは」
 
 <p style="text-align: right;">
-(Mija)
+(文学部3年 Mija)
 </p>
 
 ## 参考文献

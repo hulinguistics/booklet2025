@@ -224,9 +224,9 @@ title: アラビア語 /  العربية
 
 
 
-<!-- <p style="text-align: right;">
-(パウロ)
-</p> -->
+<p style="text-align: right;">
+(文学部3年 加藤さえり)
+</p>
 
 ## 参考資料
 
