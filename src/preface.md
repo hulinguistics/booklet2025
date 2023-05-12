@@ -10,13 +10,10 @@
 
 <p style="text-align: right;">
 2023年 6月<br>
-北大言語学サークル<br>
+北大言語学サークル
 </p>
 
-<div style="text-align: center!important; margin: 50px; ">
-  <h2>公式サイト</h2>
-  <a href="https://huling.org/">
-    <img src="./qr.png" alt="公式サイトのQRコード">
-    <h2 style="color: black; margin-top: 0em;">https://huling.org/</h2>
-  </a>
-</div>
+<p style="text-align: right;">
+Twitter: <a href="https://twitter.com/HU_Linguistic" alt="Twitter">@HU_Linguistic</a><br>
+Instagram: <a href="https://www.instagram.com/hu_linguistic/" alt="Instagram">hu_linguistic</a>
+</p>
