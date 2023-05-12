@@ -10,5 +10,13 @@
 
 <div style="text-align: right;">
 2022年 6月<br>
-北大言語学サークル
+北大言語学サークル<br>
+</div>
+
+<div style="text-align: center!important; margin: 50px; ">
+  <h2>公式サイト</h2>
+  <a href="https://huling.org/">
+    <img src="./qr.png" alt="公式サイトのQRコード">
+    <h2 style="color: black; margin-top: 0em;">https://huling.org/</h2>
+  </a>
 </div>
