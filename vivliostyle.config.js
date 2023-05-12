@@ -38,7 +38,7 @@ module.exports = {
       path: './dist/output.pdf',
       format: 'pdf',
       preflight: 'press-ready',
-      // preflightOption: ['gray-scale'], // 白黒
+      preflightOption: ['gray-scale'], // 白黒
     },
     {
       path: './dist/webpub',
@@ -49,7 +49,7 @@ module.exports = {
   toc: true,
   tocTitle: '目次',
   http: true,
-  // cover: './cover.png', // cover image. default to undefined.
+  cover: '../theme/cover.png', // cover image. default to undefined.
   // vfm: { // options of VFM processor
   //   hardLineBreaks: true, // converts line breaks of VFM to <br> tags. default to 'false'.
   //   disableFormatHtml: true, // disables HTML formatting. default to 'false'.

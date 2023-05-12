@@ -1,26 +1,25 @@
+<div id="cover">
+
+  # 北大言語学サークル 第三外国語文法概説・寄稿
+
+</div>
+
 <nav id="toc" role="doc-toc">
-  <h2>目次</h2>
-  <ol type="I">
-    <li><a href="preface.html">はじめに</a></li>
-    <li>
-      <a href="3gai/index.html">第三外国語文法概説</a>
-      <ol>
-        <li><a href="3gai/chu.html">古教会スラブ語</a></li>
-        <li><a href="3gai/ain.html">アイヌ語</a></li>
-        <li><a href="3gai/ara.html">アラビア語</a></li>
-        <li><a href="3gai/fin.html">フィンランド語</a></li>
-        <li><a href="3gai/pol.html">ポーランド語</a></li>
-        <li><a href="3gai/tur.html">トルコ語</a></li>
-      </ol>
-    </li>
-    <li>
-      <a href="contri/index.html">寄稿</a>
-      <ol>
-        <li><a href="contri/consti.html">日本国憲法の言語学的解析</a></li>
-        <li><a href="contri/edu_jpn.html">知っていますか?「日本語教育」</a></li>
-        <li><a href="contri/pol_spolgloski_miekki.html">「きのうてきなんしいん」ってなぁに？</a></li>
-        <li><a href="contri/fra_rus.html">ロシア国内でのフランス語</a></li>
-      </ol>
-    </li>
-  </ol>
+
+  ## 目次
+
+  1. [はじめに](preface.html)
+  1. [第三外国語文法概説](3gai/index.html)
+      1. [古教会スラブ語](3gai/chu.html)
+      1. [アイヌ語](3gai/ain.html)
+      1. [アラビア語](3gai/ara.html)
+      1. [フィンランド語](3gai/fin.html)
+      1. [ポーランド語](3gai/pol.html)
+      1. [トルコ語](3gai/tur.html)
+  1. [寄稿](contri/index.html)
+      1. [日本国憲法の言語学的解析](contri/consti.html)
+      1. [知っていますか?「日本語教育」](contri/edu_jpn.html)
+      1. [「きのうてきなんしいん」ってなぁに？](contri/pol_spolgloski_miekki.html)
+      1. [ロシア国内でのフランス語](contri/fra_rus.html)
+
 </nav>
