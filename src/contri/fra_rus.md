@@ -40,6 +40,10 @@
 
 フランス語は上記のようにロシアの自己知覚に深い影響を与え、アイデンティティやナショナリズムの創出にも貢献しました。同じくロシア帝国内で広く使われた外国語であるドイツ語とは、この点で大きく異なります。ここまで特異な点を示したフランス語を、この場で紹介できたことをうれしく思います。
 
+<p style="text-align: right;">
+(The United Cells)
+</p>
+
 ## 参考文献
 
 - Derek Offord| Vladislav Rjéoutski| Gesine Argent. (2018)  The French Language in Russia. Amsterdam University Press

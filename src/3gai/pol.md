@@ -1,4 +1,8 @@
-# ポーランド語 / polski
+---
+title: ポーランド語 / polski
+---
+
+# ポーランド語 <br> polski
 
 ## ポーランド語ってなに？
 
@@ -241,6 +245,10 @@
   - mały człowiek "小さい-男"「小さな男」
   - Wielki Tydzień "大いなる-1週間"「聖週間」
   - dobry wieczór "良い-晩"「こんばんは」
+
+<p style="text-align: right;">
+(Mija)
+</p>
 
 ## 参考文献
 

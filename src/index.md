@@ -17,7 +17,7 @@
       1. [ポーランド語](3gai/pol.html)
       1. [トルコ語](3gai/tur.html)
   1. [寄稿](contri/index.html)
-      1. [日本国憲法の言語学的解析](contri/consti.html)
+      1. [法律と言語学 ～日本国憲法は、これを言語学的に検討する～](contri/consti.html)
       1. [知っていますか?「日本語教育」](contri/edu_jpn.html)
       1. [「きのうてきなんしいん」ってなぁに？](contri/pol_spolgloski_miekki.html)
       1. [ロシア国内でのフランス語](contri/fra_rus.html)
