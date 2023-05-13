@@ -84,8 +84,8 @@ title: 古教会スラヴ語 / словѣньскъ ѩзꙑкъ
 |<span glag>ⰷ</span>|<span cyrs>ѕ</span>|ʒ[^6]|/d͡z/|英 *car**ds** *|
 |<span glag>ⰸ</span>|<span cyrs>ꙁ з</span>|z|/z/|英 *car**s** *|
 |<span glag>ⰹ</span>|<span cyrs>і</span>|i|/i/|「イ」. 場合によっては /ji/ のような発音も想定される. <br> 例: краи = *kraji|
-|<span glag>ⰺ</span>|<span cyrs>ꙇ</span>|i|/i/|^|
-|<span glag>ⰻ</span>|<span cyrs>и</span>|i|/i/|^|
+|<span glag>ⰺ</span>|<span cyrs>ꙇ</span>|i|/i/|同上|
+|<span glag>ⰻ</span>|<span cyrs>и</span>|i|/i/|同上|
 |<span glag>ⰼ</span>|<span cyrs>(ћ)</span>|ǵ|/gʲ/?|正確な音価は不明 <br> 古代ギリシア語における前舌母音の前の *γ* (ガンマ) と対応している|
 |<span glag>ⰽ</span>|<span cyrs>к</span>|k|/k/|「カ」の子音|
 |<span glag>ⰾ</span>|<span cyrs>л</span>|l|/l/|英 * **l**ast*|
@@ -294,38 +294,38 @@ v-語幹は印欧祖語の形を念頭に置いて ū-語幹とも呼ばれる�
 
 ##### 形容詞 dobrъ добръ '良い' の短語尾形
 
-|単数|男性|中性|女性|複数|男性|中性|女性|双数|男性|中性|女性|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**主**|dobrъ|dobro|dobra|**主**|dobri|dobra|dobry|**主**|dobra|dobrě|dobrě|
-|**生**|>|dobra|dobry|**生**|>|dobrъ|dobrъ|**生**|>|dobru|dobru|
-|**与**|>|dobru|dobrě|**与**|>|dobromъ|dobramъ|**与**|>|dobroma|dobrama|
-|**対**|dobrъ|dobro|dobrǫ|**対**|dobry|dobra|dobry|**対**|dobra|dobrě|dobrě|
-|**造**|>|dobromь|dobrojǫ|**造**|>|dobry|dobrami|**造**|>|dobroma|dobrama|
-|**所**|>|dobrě|dobrě|**所**|>|dobrěxъ|dobraxъ|**所**|>|dobru|dobru|
-|**呼**|dobre|dobro|dobro|**呼**|dobri|dobra|dobry|**呼**|dobra|dobrě|dobrě|
+|単数|男性　中性|女性|複数|男性　中性|女性|双数|男性　中性|女性|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**主**|dobrъ⁠　⁠dobro|dobra|**主**|dobri⁠　⁠dobra|dobry|**主**|dobra⁠　⁠dobrě|dobrě|
+|**生**|dobra|dobry|**生**|dobrъ|dobrъ|**生**|dobru|dobru|
+|**与**|dobru|dobrě|**与**|dobromъ|dobramъ|**与**|dobroma|dobrama|
+|**対**|dobrъ　dobro|dobrǫ|**対**|dobry⁠　⁠dobra|dobry|**対**|dobra⁠　⁠dobrě|dobrě|
+|**造**|dobromь|dobrojǫ|**造**|dobry|dobrami|**造**|dobroma|dobrama|
+|**所**|dobrě|dobrě|**所**|dobrěxъ|dobraxъ|**所**|dobru|dobru|
+|**呼**|dobre　dobro|dobro|**呼**|dobri　dobra|dobry|**呼**|dobra　dobrě|dobrě|
 
 ##### 形容詞 dobrъ добръ '良い' の長語尾形
 
-|単数|男性|中性|女性|複数|男性|中性|女性|双数|男性|中性|女性|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**主**|dobryi|dobroje|dobraja|**主**|dobrii|dobraja|dobryję|**主**|dobraja|dobrěi|dobrěi|
-|**生**|>|dobrajego|dobryję|**生**| |dobryixъ| |**生**| |dobruju| |
-|**与**|>|dobrujemu|dobrěi|**与**| |dobryimъ| |**与**| |dobryima| |
-|**対**|dobryi|dobroje|dobrǫjǫ|**対**|dobryję|dobraja|dobryję|**対**|dobraja|dobrěi|dobrěi|
-|**造**|>|dobryimь|dobrǫjǫ|**造**| |dobryimi| |**造**| |dobryima| |
-|**所**|>|dobrějemь|dobrěi|**所**| |dobryixъ| |**所**| |dobruju| |
-|**呼**|dobryi|dobroje|dobraja|**呼**|dobrii|dobraja|dobryję|**呼**|dobraja|dobrěi|dobrěi|
+|単数|男性　中性|女性|複数|男性|中性|女性|双数|男性|中性|女性|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**主**|dobryi　dobroje|dobraja|**主**|dobrii|dobraja|dobryję|**主**|dobraja|dobrěi|dobrěi|
+|**生**|dobrajego|dobryję|**生**| |dobryixъ| |**生**| |dobruju| |
+|**与**|dobrujemu|dobrěi|**与**| |dobryimъ| |**与**| |dobryima| |
+|**対**|dobryi⁠　⁠dobroje|dobrǫjǫ|**対**|dobryję|dobraja|dobryję|**対**|dobraja|dobrěi|dobrěi|
+|**造**|dobryimь|dobrǫjǫ|**造**| |dobryimi| |**造**| |dobryima| |
+|**所**|dobrějemь|dobrěi|**所**| |dobryixъ| |**所**| |dobruju| |
+|**呼**|dobryi　dobroje|dobraja|**呼**|dobrii|dobraja|dobryję|**呼**|dobraja|dobrěi|dobrěi|
 
 ##### 指示代名詞 *i и 'その'
 
-|単数|男性|中性|女性|複数|男性|中性|女性|双数|男性|中性|女性|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**主**|\*i|\*je|\*ja|**主**|\*i|\*ja|\*ję|**主**|\*ja|\*i|\*i|
-|**生**| |jego|jeję|**生**| |ixъ| |**生**| |jeju| |
-|**与**| |jemu|jei|**与**| |imъ| |**与**| |ima| |
-|**対**|i|je|jǫ|**対**|ję|ja|ję|**対**|\*ja|\*i|\*i|
-|**造**| |imь|jejǫ|**造**| |imi| |**造**| |ima| |
-|**所**| |jemь|jei|**所**| |ixъ| |**所**| |jeju| |
+|単数|男⁠性⁠　⁠中⁠性|女性|複数|男性|中性|女性|双数|男性|中性|女性|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**主**|\*i　\*je|\*ja|**主**|\*i|\*ja|\*ję|**主**|\*ja|\*i|\*i|
+|**生**|jego|jeję|**生**| |ixъ| |**生**| |jeju| |
+|**与**|jemu|jei|**与**| |imъ| |**与**| |ima| |
+|**対**|i　je|jǫ|**対**|ję|ja|ję|**対**|\*ja|\*i|\*i|
+|**造**|imь|jejǫ|**造**| |imi| |**造**| |ima| |
+|**所**|jemь|jei|**所**| |ixъ| |**所**| |jeju| |
 
 ### 動詞
 
