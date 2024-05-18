@@ -1,5 +1,5 @@
 module.exports = {
-  title: '北大言語学サークル 楡陵祭2023企画',
+  title: '北大言語学サークル 文系祭2024企画',
   author: '北大言語学サークル Huling <info@huling.org>',
   language: 'ja',
   size: 'A4',
@@ -13,24 +13,11 @@ module.exports = {
     'preface.md', // はじめに
 
     //
-    // 第3外国語概説
-    //
-    '3gai/index.md', // タイトル
-    '3gai/chu.md', // 古教会スラブ語
-    '3gai/ain.md', // アイヌ語
-    '3gai/ara.md', // アラビア語
-    '3gai/fin.md', // フィンランド語
-    '3gai/pol.md', // ポーランド語
-    '3gai/tur.md', // トルコ語
-
-    //
     // 寄稿
     //
     'contri/index.md', // タイトル
-    'contri/consti.md', // 日本国憲法の言語学的解析
-    'contri/edu_jpn.md', // 知っていますか?「日本語教育」
-    'contri/pol_spolgloski_miekki.md', // 「きのうてきなんしいん」ってなぁに？
-    'contri/fra_rus.md', // ロシア国内でのフランス語
+    'contri/aynuitak.md', // アイヌ語概説 aynu itak
+    'contri/jamc.md', // ジャマイカ・クレオール語(パトワ)文法概説
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'

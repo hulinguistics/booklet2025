@@ -67,7 +67,7 @@ section {
     margin: 1em 0em 0.5em;
   }
   > p {
-    text-indent: 1em;
+    // text-indent: 1em; // 字下げ
     &:has(img) {
       text-align: center;
       img {
