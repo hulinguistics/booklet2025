@@ -18,6 +18,7 @@ module.exports = {
     'contri/index.md', // タイトル
     'contri/aynuitak.md', // アイヌ語概説 aynu itak
     'contri/jamc.md', // ジャマイカ・クレオール語(パトワ)文法概説
+    'contri/languessr.md', // 言語当てゲーム Languessr の紹介
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'
