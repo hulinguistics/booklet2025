@@ -24,15 +24,16 @@ jobs:
       - name: Build
         run: yarn build
 
-      - name: add CNAME
-        run: echo 'booklet2024.huling.org' >> ./dist/webpub/CNAME
-
-      - name: Deploy webpub
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist/webpub
+          path: ./dist/webpub
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+        if: ${{ github.ref == 'refs/heads/main' }}
 
       - name: Archive pdf
         uses: actions/upload-artifact@v2
