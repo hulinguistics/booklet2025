@@ -17,5 +17,5 @@
   <a href="https://huling.org/" alt="Web" style="color: black;">https://huling.org/</a><br>
   Twitter: <a href="https://twitter.com/HU_Linguistic" alt="Twitter" style="color: black;">@HU_Linguistic</a><br>
   Instagram: <a href="https://www.instagram.com/hu_linguistic/" alt="Instagram"style="color: black;">hu_linguistic</a><br>
-  note: <a href="https://note.com/huling/m/m8a70e16198cc" alt="note" style="color: black;">hu_linguistic</a><br>
+  note: <a href="https://note.com/huling/m/m8a70e16198cc" alt="note" style="color: black;">huling</a><br>
 </div>
