@@ -21,6 +21,8 @@ module.exports = {
     'contri/grice-1.md', // グライス語用論 概説 前編
     'contri/grice-2.md', // グライス語用論 概説 中編
     'contri/grice-3.md', // グライス語用論 概説 後編
+    'contri/yaimamuni-1.md', // 標準日本語との対照から学ぶ八重山語の音韻 前編
+    'contri/yaimamuni-2.md', // 標準日本語との対照から学ぶ八重山語の音韻 後編
     'contri/languessr.md', // 言語当てゲーム Languessr
   ],
   entryContext: './src',
