@@ -50,7 +50,7 @@ title: グライス語用論概説 後編
 
 Horn(1984: 22, 27)は、次のような例文を挙げながら、二つの原理の「**語用論的分業**(division of pragmatic labor)」について説明します。
 
-> A: Black Bart killed the sheriff.
+> A: Black Bart killed the sheriff.  
 > B: Black Bart caused the sheriff to die.
 
 ここでは、より有標で複雑で冗長なBの文が**Q原理の推意**と結び付いて有標で非典型的な状況(意図的ではなく死なせてしまった)を表すと考えられるのに対して、より無標で簡潔なAの文は**R原理の推意**と結び付いて無標で典型的な状況(意図的に殺した)を表すと考えられることになります。
