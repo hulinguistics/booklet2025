@@ -25,6 +25,7 @@ module.exports = {
     'contri/yaimamuni-2.md', // 標準日本語との対照から学ぶ八重山語の音韻 後編
     'contri/ga-ipa.md', // 英語の発音記号とIPAの違い
     'contri/languessr.md', // 言語当てゲーム Languessr
+    'contri/restaurant.md', // 北大周辺の美味しいエスニック料理店紹介
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'

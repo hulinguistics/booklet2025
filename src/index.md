@@ -19,5 +19,6 @@
       1. [標準日本語との対照から学ぶ八重山語の音韻 後編](contri/yaimamuni-2.html)
       1. [英語の発音記号とIPAの違い](contri/ga-ipa.html)
       1. [言語当てゲーム Languessr](contri/languessr.html)
+      1. [北大周辺の美味しいエスニック料理店紹介](contri/restaurant.html)
 
 </nav>
