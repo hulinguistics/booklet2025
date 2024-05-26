@@ -21,7 +21,7 @@ module.exports = {
     'contri/grice-1.md', // グライス語用論 概説 前編
     'contri/grice-2.md', // グライス語用論 概説 中編
     'contri/grice-3.md', // グライス語用論 概説 後編
-    'contri/languessr.md', // 言語当てゲーム Languessr の紹介
+    'contri/languessr.md', // 言語当てゲーム Languessr
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'

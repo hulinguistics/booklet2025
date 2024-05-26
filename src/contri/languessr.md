@@ -1,8 +1,8 @@
 ---
-title: 言語当てゲーム Languessr の紹介
+title: 言語当てゲーム Languessr
 ---
 
-# 言語当てゲーム Languessr の紹介
+# 言語当てゲーム Languessr
 
 ランダムに表示される Wikipedia の要約記事からその表示言語を当てるブラウザゲーム「Languessr」を作りました。その紹介です。
 

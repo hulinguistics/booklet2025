@@ -15,6 +15,6 @@
       1. [グライス語用論 概説 前編](contri/grice-1.html)
       1. [グライス語用論 概説 中編](contri/grice-2.html)
       1. [グライス語用論 概説 後編](contri/grice-3.html)
-      1. [言語当てゲーム Languessr の紹介](contri/languessr.html)
+      1. [言語当てゲーム Languessr](contri/languessr.html)
 
 </nav>
