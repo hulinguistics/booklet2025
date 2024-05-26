@@ -12,6 +12,9 @@
   1. [寄稿](contri/index.html)
       1. [アイヌ語概説 aynu itak](contri/aynuitak.html)
       1. [ジャマイカ・クレオール語(パトワ)文法概説](contri/jamc.html)
+      1. [グライス語用論 概説 前編](contri/grice-1.html)
+      1. [グライス語用論 概説 中編](contri/grice-2.html)
+      1. [グライス語用論 概説 後編](contri/grice-3.html)
       1. [言語当てゲーム Languessr の紹介](contri/languessr.html)
 
 </nav>

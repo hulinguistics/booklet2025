@@ -34,3 +34,7 @@ title: 言語当てゲーム Languessr の紹介
 サークルのある日の昼に思い付き、夕方までに実装したものであるため、元々は実装や難易度設定に無理がありました。しかし、様々な方に遊んでいただき、沢山のアイデアをいただいて今の形に落ち着きました。これからも、積極的にSNSで共有し、攻略記事等を書いていただくことで、Languessr を普及していきたいと思っています。いつかは競技会をしたい！
 
 ![Languessr プレイ画面](https://assets.st-note.com/img/1708078934644-sSfUOlg6sG.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85){width=500}
+
+<p style="text-align: right;">
+(理学部3年 xiupos)
+</p>

@@ -357,3 +357,7 @@ JamCの動詞連続には以下のような特徴があるようだ.
 - 例文は、基本的にPatrik(2004)により, 一部説明のために翻訳を追加しました.
 - Christie 1996については, 原論文(Jamaican relatives in focus)が手に入らなかったため孫引きする形になっています. 原著が手に入り次第更新します. %
 - 質問などは, [サークル公式X](https://twitter.com/HU_Linguistic)までお願いします.
+
+<p style="text-align: right;">
+(薬学部3年 片岡健人)
+</p>
