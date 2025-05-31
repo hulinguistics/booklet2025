@@ -111,7 +111,9 @@ encode("Do you know, Watson,"), decode(encode("Do you know, Watson,"))
 # 幅 xnum で1文字ずれた列を生成する
 # ex) ['rip has been upo', 'ip has been upon']
 #      |<-----xnum----->|  |<-----xnum----->|
-def get_batches(xnum: int, data: list[int] = dataset, split="train") -> tuple[list[int], list[int]]:
+def get_batches(xnum: int, data: list[int] = dataset, split="train") \
+    -> tuple[list[int], list[int]]:
+
     # 教師データを 8:2 で分割してバッチとする
     if split == "train":
         # 学習データ
