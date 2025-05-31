@@ -1,5 +1,5 @@
 module.exports = {
-  title: '北大言語学サークル 文系祭2024企画',
+  title: '北大言語学サークル 文系祭2025企画',
   author: '北大言語学サークル Huling <info@huling.org>',
   language: 'ja',
   size: 'A4',
@@ -16,16 +16,15 @@ module.exports = {
     // 寄稿
     //
     'contri/index.md', // タイトル
-    'contri/aynuitak.md', // アイヌ語概説 aynu itak
-    'contri/jamc.md', // ジャマイカ・クレオール語(パトワ)文法概説
-    'contri/grice-1.md', // グライス語用論概説 前編
-    'contri/grice-2.md', // グライス語用論概説 中編
-    'contri/grice-3.md', // グライス語用論概説 後編
-    'contri/yaimamuni-1.md', // 標準日本語との対照から学ぶ八重山語の音韻 前編
-    'contri/yaimamuni-2.md', // 標準日本語との対照から学ぶ八重山語の音韻 後編
-    'contri/ga-ipa.md', // 英語の発音記号とIPAの違い
-    'contri/languessr.md', // 言語当てゲーム Languessr
-    'contri/restaurant.md', // 北大周辺の美味しいエスニック料理店紹介
+    'contri/yaimamuni-jpop.md', // 現代のJ-POPに見る琉球八重山語
+    'contri/sovet-1.md', // ソ連国歌で学ぶロシア語文法･前編
+    'contri/sovet-2.md', // ソ連国歌で学ぶロシア語文法･後編
+    'contri/bamanankan-1.md', // バンバラ語 概説 音韻編
+    'contri/bamanankan-2.md', // バンバラ語 概説 文法編
+    'contri/itenmen.md', // イテリメン語の否定とその現実性について
+    'contri/golden-kamuy.md', // ドラマ『ゴールデンカムイ』のアイヌ語を読んでみよう！
+    'contri/new-hp.md', // あたらしいHulingのHPのはなし
+    'contri/nikolaj.md', // ニコライの『魯話和訳』に関する覚書
   ],
   entryContext: './src',
   output: [ // path to generate draft file(s). default to '{title}.pdf'
