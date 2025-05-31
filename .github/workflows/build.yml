@@ -31,17 +31,17 @@ jobs:
         run: yarn build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           path: ./dist/webpub
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
         if: ${{ github.ref == 'refs/heads/main' }}
 
       - name: Archive pdf
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           path: ./dist/output.pdf
