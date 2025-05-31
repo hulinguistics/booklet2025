@@ -22,6 +22,7 @@ module.exports = {
     'contri/itenmen.md', // イテリメン語の否定とその現実性について
     'contri/golden-kamuy.md', // ドラマ『ゴールデンカムイ』のアイヌ語を読んでみよう！
     'contri/new-hp.md', // あたらしいHulingのHPのはなし
+    'contri/nlp-ml-huit.md', // へっぽこAIをつくろう！(NLP/ML 勉強会ノート)
     'contri/i-font.md', // 補助記号のついたキリル文字《І і》のフォント問題
     'contri/nikolaj.md', // ニコライの『魯話和訳』に関する覚書
   ],
