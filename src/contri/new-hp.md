@@ -4,7 +4,9 @@ title: あたらしいHulingのHPのはなし
 
 # あたらしいHulingのHPのはなし
 
-私 xiupos は北大言語学サークル Huling で現役構成員として公式サイト [huling.org](https://huling.org/) を作っています（執筆時点）。昨年末、このHPを大きく作りなおしました。その改修までの経緯がこの記事の趣旨です。
+私 xiupos は北大言語学サークル Huling で現役構成員として公式サイト https://huling.org/ を作っています（執筆時点）。昨年末、このHPを大きく作りなおしました。その改修までの経緯がこの記事の趣旨です。
+
+![Huling 公式サイト](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://huling.org/){width=130}
 
 ## 改修前の構成
 
@@ -24,7 +26,7 @@ VitePress のデフォルトテーマを使っているとはいえ、テーマ�
 
 ![改修前のHPで使われていた文字の一覧。ロード時間を短縮するため、ビルド時にこれらの文字だけを含むフォントサブセットが生成されていた。](https://assets.st-note.com/img/1733907570-e6IrUx3jWQiHXytgwldZRmuV.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=500}
 
-また、文字変換器も言語学サークルならではの機能でした。改修後は別のリポジトリに切り出されています。ある文字を別の文字へ相互に変換することのできるウェブツールです。言葉で説明するより実際に使ってもらった方がわかってもらえる思います↓
+また、文字変換器も言語学サークルならではの機能でした。改修後は別のリポジトリ https://hulinguistics.github.io/conv/ に切り出されています。ある文字を別の文字へ相互に変換することのできるウェブツールです。言葉で説明するより実際に使ってもらった方がわかってもらえる思います↓
 
 ![文字変換器 by Huling](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://hulinguistics.github.io/conv/){width=130}
 
@@ -48,7 +50,7 @@ VitePress のデフォルトテーマを使っているとはいえ、テーマ�
 
 年度が明けようとしている時期に改修は始まりました。
 
-まず、記事はすべて note など既存のブログサービスで書くことになりました。フォントの問題など、反対意見もありましたが、引き継ぎのことを考えれば止むなしです。HP上にあった記事の大半も note に移されました。記事を追加するときは、各々のアカウントで記事を書き、Huling の note のマガジンにそれを追加する、という手順です。
+まず、記事はすべて note など既存のブログサービスで書くことになりました。フォントの問題など、反対意見もありましたが、引き継ぎのことを考えれば止むなしです。HP上にあった記事の大半も note に移されました。記事を追加するときは、各々のアカウントで記事を書き、Huling の note のマガジン https://note.com/huling/m/m8a70e16198cc にそれを追加する、という手順です。
 
 ![Huling の note のマガジン](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://note.com/huling/m/m8a70e16198cc){width=130}
 
