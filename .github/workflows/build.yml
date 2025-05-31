@@ -20,8 +20,9 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Use Volta
-        uses: volta-cli/action@v1
+      - uses: jdx/mise-action@v2
+        with:
+          cache: true
 
       - name: Install dependencies
         run: yarn install

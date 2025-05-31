@@ -1,5 +1,5 @@
 module.exports = {
-  title: '北大言語学サークル 文系祭2025企画',
+  title: '北大言語学サークル 北大祭2025企画',
   author: '北大言語学サークル Huling <info@huling.org>',
   language: 'ja',
   size: 'A4',
