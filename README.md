@@ -1,6 +1,6 @@
 # Booklet
 
-言サ2023冊子
+言サ2025冊子
 
 > created by [create-book](https://github.com/vivliostyle/create-book).
 
