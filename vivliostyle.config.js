@@ -17,13 +17,12 @@ module.exports = {
     //
     'contri/index.md', // タイトル
     'contri/yaimamuni-jpop.md', // 現代のJ-POPに見る琉球八重山語
-    'contri/sovet-1.md', // ソ連国歌で学ぶロシア語文法･前編
-    'contri/sovet-2.md', // ソ連国歌で学ぶロシア語文法･後編
     'contri/bamanankan-1.md', // バンバラ語 概説 音韻編
     'contri/bamanankan-2.md', // バンバラ語 概説 文法編
     'contri/itenmen.md', // イテリメン語の否定とその現実性について
     'contri/golden-kamuy.md', // ドラマ『ゴールデンカムイ』のアイヌ語を読んでみよう！
     'contri/new-hp.md', // あたらしいHulingのHPのはなし
+    'contri/i-font.md', // 補助記号のついたキリル文字《І і》のフォント問題
     'contri/nikolaj.md', // ニコライの『魯話和訳』に関する覚書
   ],
   entryContext: './src',
