@@ -4,9 +4,9 @@ title: へっぽこAIをつくろう！(NLP/ML 勉強会ノート)
 
 # へっぽこAIをつくろう！(NLP/ML 勉強会ノート)
 
-Huling では「Huling 技術会」と称して、言語に関する技術的な活動・勉強会を行っています。昨年夏には「第2回 自然言語処理(NLP)/機械学習(ML) 勉強会」を開催し、生成AIの仕組みに関する知識の共有を行いました。この記事は、北大IT研究会(HUIT)において同じ内容の勉強会を実施した際に作成した勉強会ノートです。テーマは「とにかくそれっぽく動く言語モデルを作る」です。内容に不正確・不明瞭なところもあると思いますが、これを読んで情報会の活動に興味を持っていただけたら嬉しいです。
+Huling では「言サ情報会」と称して、言語学に関する技術的な活動・勉強会を行っています。昨年夏には「第2回 自然言語処理(NLP)/機械学習(ML) 勉強会」を開催し、生成AIの仕組みに関する知識の共有を行いました。この記事は、北大IT研究会(HUIT)において同じ内容の勉強会を実施した際に作成した勉強会ノートです。テーマは「とにかくそれっぽく動く言語モデルを作る」です。内容に不正確・不明瞭なところもあると思いますが、これを読んで言サ情報会の活動に興味を持っていただけたら嬉しいです。
 
-下の[左の二次元コード](https://speakerdeck.com/xiupos/ml-mian-qiang-hui-at-huit)は勉強会で使用した発表スライドです。当ノートと併せて読むことを強く推奨します。また、[右の二次元コード](https://colab.research.google.com/gist/xiupos/f14c3250f306c79cd14ad9e7ce85f36a/nlp-ml-huit.ipynb)から、当記事と同じ内容のコードを Google Colab で実際に動かすことができます。
+下の[左の二次元コード](https://speakerdeck.com/xiupos/ml-mian-qiang-hui-at-huit)は勉強会で使用した発表スライドです。当ノートと併せて読むことを強く推奨します。また、[右の二次元コード](https://colab.research.google.com/gist/xiupos/f14c3250f306c79cd14ad9e7ce85f36a/nlp-ml-huit.ipynb)から、当ノートと同じ内容のコードを Google Colab 上で実際に動かすことができます。
 
 <div style="display: flex; justify-content: center; gap: 5em;">
 
@@ -281,13 +281,7 @@ loss.item()
 
 この値はどう解釈すればいいのでしょうか? 今回の教師データ $\vec{y}$ はワンホットベクトルで, ここでは $\vec{y}$ が単語 $μ$ を表しているときの確率分布が $p = \{p_ν\} = \{δ_{μν}\}$ としてみましょう。(実際、`nn.CrossEntropyLoss()` ではこのような扱いになります。) このとき1単語のみの損失関数は
 $$
-\begin{aligned}
-\mathtt{loss}
-  &= ⟨- \log q⟩ \\
-  &= - \sum_ν p_ν \log q_ν \\
-  &= - \sum_ν δ_{μν} \log q_ν \\
-  &= - \log q_μ \\
-\end{aligned}
+\mathtt{loss} = ⟨- \log q⟩ = - \sum_ν p_ν \log q_ν = - \sum_ν δ_{μν} \log q_ν = - \log q_μ
 $$
 であるので、損失関数の値 `loss` から単語 $μ$ の生成確率がわかります:
 $$
