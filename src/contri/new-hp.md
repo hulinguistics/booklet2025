@@ -16,13 +16,13 @@ title: あたらしいHulingのHPのはなし
 
 やがて **VitePress** に落ち着き、改修直前には36個の記事が掲載されていました（後述の文字変換器を除く）。改修直前のコミット ([ac63b47](https://github.com/hulinguistics/huling/tree/ac63b47)) 時点のリポジトリから往時の様子を偲ぶことができます。
 
-![改修前のトップページ](https://assets.st-note.com/img/1733905730-N1qdKkYFEauIxR8elUzr4MGH.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
+![改修前のトップページ (VitePress 製)](https://assets.st-note.com/img/1733905730-N1qdKkYFEauIxR8elUzr4MGH.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=430}
 
-![改修前の記事ページの例（現在は note に掲載）](https://assets.st-note.com/img/1733906139-A13Vx8WvwLQGnqEaNry4oe0R.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
+![改修前の記事ページの例（現在は note に掲載）](https://assets.st-note.com/img/1733906139-A13Vx8WvwLQGnqEaNry4oe0R.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=450}
 
 VitePress のデフォルトテーマを使っているとはいえ、テーマを改変したり、コンポーネントを定義したりすることができるので、様々な改良が施されました。たとえば、文中のフォントの指定には特に注意が払われており、キリル文字でも古教会スラブ語では文献の書体に近付けるため Monomakh というフォントを使う、といった設定がなされていました。大量のフォントをロードする時間を抑えるため、毎回ビルド時にフォントサブセットを自動作成していたほどです。
 
-![改修前のHPで使われていた文字の一覧。ロード時間を短縮するため、ビルド時にこれらの文字だけを含むフォントサブセットが生成されていた。](https://assets.st-note.com/img/1733907570-e6IrUx3jWQiHXytgwldZRmuV.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
+![改修前のHPで使われていた文字の一覧。ロード時間を短縮するため、ビルド時にこれらの文字だけを含むフォントサブセットが生成されていた。](https://assets.st-note.com/img/1733907570-e6IrUx3jWQiHXytgwldZRmuV.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=500}
 
 また、文字変換器も言語学サークルならではの機能でした。改修後は別のリポジトリに切り出されています。ある文字を別の文字へ相互に変換することのできるウェブツールです。言葉で説明するより実際に使ってもらった方がわかってもらえる思います↓
 
@@ -36,7 +36,7 @@ VitePress のデフォルトテーマを使っているとはいえ、テーマ�
 
 やがて、記事執筆の敷居を下げるため、**Netlify CMS**（現 Decap CMS）という Headless CMS を導入して、GitHub アカウントさえ作成すれば git も md も知らずに記事を作成できる環境が整えられました。CMSの導入は、記事執筆の敷居を下げるのに大きく寄与したと思います。ですが、まだ構成員からは敬遠されていました。
 
-![改修前に導入していた Netlify CMS（現 Decap CMS）](https://assets.st-note.com/img/1733909201-ukb8IW2cBMzHNOgraPn3TQpE.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
+![改修前に導入していた Netlify CMS（現 Decap CMS）](https://assets.st-note.com/img/1733909201-ukb8IW2cBMzHNOgraPn3TQpE.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=500}
 
 ### 担当の引き継ぎがむずかしい
 
@@ -54,18 +54,18 @@ VitePress のデフォルトテーマを使っているとはいえ、テーマ�
 
 文字変換器は前述の通り、別のサイトに切り出されました。各方面からお褒めの言葉を頂いていただけに、廃止には絶対にできませんでした。リダイレクトの設定がなされていますが、ブックマークをするときは新しいURLへの登録をお願いします。
 
+![改修後のトップページ](https://assets.st-note.com/img/1733912625-Auy1pKBmn0NYLCPOVqwGr5zv.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=450}
+
 そして、HP本体ですが、モダンSSGをやめてピュアな **HTML+CSS+JS を直接書く**という古式ゆかしい佇まいになりました。サークルの概要を記述するだけの、一枚もののサイトになっています。記事や他機能が切り出されたことから、HPのコードを触る構成員はHP担当だけです。GitHub上での開発は続けていますが、このくらいの構成なら現実的に引き継げると思います。
+
+![改修後に追加された note マガジンへのリンク](https://assets.st-note.com/img/1733915399-Nx854L6YSMjnhIFBAWDeGC0V.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
 
 また、改修後のHPには、note マガジンの最新記事がリスト表示されています。改修前には無かったアピールです。技術的には note マガジンのRSSから取得して表示しているだけですが、最近の CSS や Vanilla JS は非常に良い体験で書くことができます。（CSS Nesting Module や Web Components など。）
 
 Huling 公式サイト上で Ctrl+U をすると、素朴なソースコードを読むことができます。この記事を執筆した時点でのページは Wayback Machine にもアーカイブされています。執筆時点でのリポジトリからも様子が伺えると思います。
 
-執筆時点では、まだ私がHP担当ですが、この改修をした後であれば難なく引き継げると確信しています。ちなみに今回の北大祭時点ではまだ引き継げていません。
+執筆時点では、まだ私がHP担当ですが、この改修をした後であれば難なく引き継げると確信しています。ちなみにまだ引き継ぎの目処は立っていません。技術系に明るい新構成員求む！
 
 <p style="text-align: right;">
 (理学部4年 xiupos)
 </p>
-
-![改修後のトップページ](https://assets.st-note.com/img/1733912625-Auy1pKBmn0NYLCPOVqwGr5zv.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
-
-![改修後に追加された note マガジンへのリンク](https://assets.st-note.com/img/1733915399-Nx854L6YSMjnhIFBAWDeGC0V.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90){width=400}
