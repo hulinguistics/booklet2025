@@ -19,7 +19,7 @@ module.exports = {
     'contri/yaimamuni-jpop.md', // 現代のJ-POPに見る琉球八重山語
     'contri/bamanankan-1.md', // バンバラ語 概説 音韻編
     'contri/bamanankan-2.md', // バンバラ語 概説 文法編
-    'contri/itenmen.md', // イテリメン語の否定とその現実性について
+    'contri/itenmen.md', // 活動記録&レポ 小野智香子先生講演会「イテリメン語における否定」
     'contri/golden-kamuy.md', // ドラマ『ゴールデンカムイ』のアイヌ語を読んでみよう！
     'contri/new-hp.md', // あたらしいHulingのHPのはなし
     'contri/nlp-ml-huit.md', // へっぽこAIをつくろう！(NLP/ML 勉強会ノート)
